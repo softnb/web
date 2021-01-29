@@ -4,3 +4,5 @@ https://softnb.netlify.com/privacypolicy.html
 https://softnb.netlify.com/DamlaMemory/index.html
 https://softnb.netlify.com/DamlaSlidePuzzle/index.html
 https://softnb.netlify.com/BubbleCatch/index.html
+https://softnb.netlify.com/Sudoku/index.html
+https://softnb.netlify.com/Sudoku/indexTr.html
