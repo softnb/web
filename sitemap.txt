@@ -6,5 +6,7 @@ https://softnb.netlify.com/DamlaSlidePuzzle/index.html
 https://softnb.netlify.com/BubbleCatch/index.html
 https://softnb.netlify.com/Sudoku/index.html
 https://softnb.netlify.com/Sudoku/indexTr.html
-https://softnb.netlify.com/NbBlok/indexTr.html
-https://softnb.netlify.com/NBBlok/index.html
+https://softnb.netlify.com/NbBlock/indexTr.html
+https://softnb.netlify.com/NBBlock/index.html
+https://softnb.netlify.com/NBdropthenumber/indexTr.html
+https://softnb.netlify.com/NBdropthenumber/index.html
